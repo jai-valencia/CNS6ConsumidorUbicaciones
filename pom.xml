@@ -15,7 +15,7 @@
     <groupId>com.transporte</groupId>
     <artifactId>consumidor-ubicaciones</artifactId>
     <version>1.0.0</version>
-    <n>consumidor-ubicaciones</n>
+    <name>consumidor-ubicaciones</name>
     <description>Microservicio consumidor para guardar ubicaciones en Oracle Cloud</description>
     
     <properties>

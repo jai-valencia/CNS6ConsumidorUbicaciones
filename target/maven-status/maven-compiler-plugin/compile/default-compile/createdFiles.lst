@@ -1,0 +1,8 @@
+com/transporte/ubicaciones/listener/UbicacionMessageListener.class
+com/transporte/ubicaciones/service/UbicacionService.class
+com/transporte/ubicaciones/controller/UbicacionController.class
+com/transporte/ubicaciones/repository/UbicacionGPSRepository.class
+com/transporte/ubicaciones/model/UbicacionGPS.class
+com/transporte/ubicaciones/ConsumidorUbicacionesApplication.class
+com/transporte/ubicaciones/config/RabbitMQConfig.class
+com/transporte/ubicaciones/entity/UbicacionGPSEntity.class
